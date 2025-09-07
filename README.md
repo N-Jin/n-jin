@@ -1,5 +1,5 @@
 ## Waddup 👊
-Writing codes like everyone here.
+Writing code like everyone here.
 
 #### Using:
 [![My Skills](https://skillicons.dev/icons?i=html,css,php,mysql,js,ts,git,python,lua,bash,vscode,neovim,nextjs,tailwind,linux,debian,ubuntu,raspberrypi,docker,obsidian,github,markdown,tensorflow,pytorch&perline=8)](https://skillicons.dev)
