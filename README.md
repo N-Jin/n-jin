@@ -1,4 +1,4 @@
-## Waddup 👊
+## Sup 👊
 Writing code like everyone here.
 
 #### Using:
